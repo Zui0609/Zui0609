@@ -22,30 +22,11 @@ I enjoy building scalable, reliable systems and working on problems involving sy
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently pursuing a Master’s in Computer Science (OMSCS) at Georgia Tech  
-  
-
 - 🏦 Currently working in banking on credit risk and data-driven analysis  
-  
-
 - 💬 Ask me about Python, backend systems, ML applications, or data-driven decision making  
-  
-
 - ⚡ Fun fact: I enjoy bridging real-world business problems with engineering and AI solutions  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
